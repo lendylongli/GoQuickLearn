@@ -28,6 +28,10 @@ proguard/
 *.ipr
 *.iws
 .idea/
+build/
+.gradle/
+
+.DS_Store
 
 GoQuickLearn/proguard_logs/dump.txt
 GoQuickLearn/proguard_logs/mapping.txt
